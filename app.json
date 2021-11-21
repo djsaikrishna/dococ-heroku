@@ -7,8 +7,8 @@
     "api"
   ],
   "success_url": "https://telegram.dog/heroku_pro_manager_bot",
-  "website": "https://github.com/vinayakext2/heroku-tg",
-  "repository": "https://github.com/vinayakext2/heroku-tg",
+  "website": "https://github.com/vinayak-7-0-3/heroku-tg",
+  "repository": "https://github.com/vinayak-7-0-3/heroku-tg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -26,84 +26,12 @@
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "HAPI_KEY0": {
+    "API_KEY0": {
       "description": "1st API Key of Heroku AC of 1st bot",
       "value": ""
     },
-    "HAPI_KEY1": {
-      "description": "2nd API Key of Heroku AC of 2nd bot",
-      "value": ""
-    },
-    "HAPI_KEY2": {
-      "description": "3rd API Key of Heroku AC of 3rd bot",
-      "value": ""
-    },
-    "HAPI_KEY3": {
-      "description": "4th API Key of Heroku AC of 4th bot",
-      "value": ""
-    },
-    "HAPI_KEY4": {
-      "description": "5th API Key of Heroku AC of 5th bot",
-      "value": ""
-    },
-    "HAPI_KEY5": {
-      "description": "6th API Key of Heroku AC of 6th bot",
-      "value": ""
-    },
-    "HAPI_KEY6": {
-      "description": "7th API Key of Heroku AC of 7th bot",
-      "value": ""
-    },
-    "HAPI_KEY7": {
-      "description": "8th API Key of Heroku AC of 8th bot",
-      "value": ""
-    },
-    "HAPI_KEY8": {
-      "description": "9th API Key of Heroku AC of 9th bot",
-      "value": ""
-    },
-    "HAPI_KEY9": {
-      "description": "10th API Key of Heroku AC of 10th bot",
-      "value": ""
-    },
-    "HAPP_NAME0": {
+    "APP_NAME0": {
       "description": "1st Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME1": {
-      "description": "2nd Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME2": {
-      "description": "3rd Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME3": {
-      "description": "4th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME4": {
-      "description": "5th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME5": {
-      "description": "6th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME6": {
-      "description": "7th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME7": {
-      "description": "8th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME8": {
-      "description": "9th Heroku App Name",
-      "value": ""
-    },
-    "HAPP_NAME9": {
-      "description": "10th Heroku App Name",
       "value": ""
     },
     "ADMINS": {
