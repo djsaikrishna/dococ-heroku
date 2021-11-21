@@ -1,0 +1,5 @@
+requests
+heroku3
+pyrogram
+tgcrypto
+pymongo
